@@ -1,0 +1,1 @@
+[2025-09-19 17:42:57 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
