@@ -40,3 +40,12 @@ nexus process --sample
 ```bash
 cat sample_data.csv | nexus process
 ```
+
+## Contributors
+
+This project is actively developed and maintained by:
+- **[Kelvin Fomukong Siweh Nkweche](https://github.com/Kelvinsiweh)**
+- **[Ndemafia](https://github.com/ndemafiawilsmith)**
+
+Contributions, issue reports, and suggestions are welcome!
+
