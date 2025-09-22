@@ -20,3 +20,4 @@
 [2026-08-30 18:44:19 +0100] refactor: streamline data structures and internal error handling (ref: 03fb8bce, by: Kelvin Fomukong Siweh Nkweche)
 [2026-09-15 20:45:58 +0100] refactor: streamline data structures and internal error handling (ref: 5c4606f3, by: Ndemafia)
 [2026-09-16 18:57:40 +0100] refactor: streamline data structures and internal error handling (ref: bfe71c06, by: Kelvin Fomukong Siweh Nkweche)
+[2025-09-22 16:03:20 +0100] refactor(architecture): decouple component abstractions and interface contracts (ref: 8bdfcc03, author: Ndemafia Wilsmith)
