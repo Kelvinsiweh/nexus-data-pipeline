@@ -50,3 +50,11 @@ class SyntheticExtractor(BaseExtractor):
 # Optimized streaming buffer
 
 # Fixed empty row skip
+
+
+# JSONL streaming support
+def extract_jsonl(path):
+    with open(path, 'r') as f:
+        for line in f:
+            if line.strip():
+                yield json.loads(line)
