@@ -20,3 +20,4 @@
 [2026-06-15 22:05:33 +0100] feat: enhance telemetry metric collection and response timing (ref: 07d37ea9, by: Kelvin Fomukong Siweh Nkweche)
 [2026-07-01 11:06:53 +0100] feat: enhance telemetry metric collection and response timing (ref: 9689f1a6, by: Kelvin Fomukong Siweh Nkweche)
 [2026-09-02 10:03:31 +0100] feat: enhance telemetry metric collection and response timing (ref: 412602e6, by: Kelvin Fomukong Siweh Nkweche)
+[2025-10-09 10:17:30 +0100] feat(metrics): extend telemetry exporter with high-precision timestamps (ref: f9cfc36a, author: Ndemafia Wilsmith)
