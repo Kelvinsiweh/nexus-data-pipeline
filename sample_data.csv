@@ -1,0 +1,6 @@
+record_id,customer_id,category,amount,region,status,tags
+REC-101,CUST-902,Cloud Services,1250.00,North America,completed,enterprise;q3
+REC-102,CUST-414,Hardware,840.50,Europe,completed,q3
+REC-103,CUST-811,Consulting,3200.00,Asia Pacific,completed,strategic
+REC-104,CUST-109,Licensing,150.00,Europe,flagged,audit_review
+REC-105,CUST-552,Cloud Services,2980.00,North America,completed,enterprise
