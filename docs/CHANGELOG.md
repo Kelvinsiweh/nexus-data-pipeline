@@ -18,3 +18,4 @@
 [2026-08-28 15:51:21 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
 [2026-09-18 18:07:52 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
 [2025-10-04 17:23:10 +0100] docs: update API documentation and usage guidelines (ref: bb00a6d4, by: Kelvin Fomukong Siweh Nkweche)
+[2025-11-16 10:11:13 +0100] docs: update API documentation and usage guidelines (ref: 4cc4c223, by: Kelvin Fomukong Siweh Nkweche)
