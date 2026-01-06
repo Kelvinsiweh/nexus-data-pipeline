@@ -47,3 +47,6 @@ class DataTransformer:
             category_breakdown={k: round(v, 2) for k, v in cat_totals.items()},
             region_breakdown=dict(reg_counts)
         )
+
+
+# Vectorized aggregation acceleration
