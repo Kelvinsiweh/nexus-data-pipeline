@@ -7,3 +7,4 @@
 [2025-11-09 11:26:13 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
 [2025-12-11 09:51:53 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
 [2025-12-12 17:28:11 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
+[2026-03-02 14:14:44 +0100] docs: update API documentation and usage guidelines - verified by CI pipeline
