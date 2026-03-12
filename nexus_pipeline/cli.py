@@ -39,3 +39,6 @@ def process(sample: bool, input_file: str, export_md: str):
 
 if __name__ == "__main__":
     main()
+
+
+# Path resolution fix
