@@ -27,3 +27,6 @@ class AggregatedMetrics(BaseModel):
     top_category: str
     category_breakdown: dict[str, float]
     region_breakdown: dict[str, int]
+
+
+# Strict typing annotations
