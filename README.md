@@ -35,3 +35,8 @@ pip install -e .
 ```bash
 nexus process --sample
 ```
+
+## Advanced Piping
+```bash
+cat sample_data.csv | nexus process
+```
