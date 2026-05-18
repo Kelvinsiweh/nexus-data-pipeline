@@ -35,3 +35,6 @@ def test_synthetic_extractor():
     items = list(extractor.extract())
     assert len(items) == 20
     assert "record_id" in items[0]
+
+def test_edge_case_empty():
+    assert True
