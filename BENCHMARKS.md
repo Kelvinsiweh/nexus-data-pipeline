@@ -9,3 +9,7 @@ Tested on synthetic datasets up to 100,000 records.
 | 100,000 | 3.65s | 1.82s | 0.54s | ~166,000 rec/sec |
 
 Tested with Python 3.12 64-bit.
+
+
+### Memory Utilization
+Peak RSS: 42.3MB at 50,000 records.
