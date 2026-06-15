@@ -48,3 +48,5 @@ class SyntheticExtractor(BaseExtractor):
                 "tags": ["enterprise", "q3"]
             }
 # Optimized streaming buffer
+
+# Fixed empty row skip
