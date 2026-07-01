@@ -26,3 +26,5 @@ jobs:
     - name: Run unit test suite
       run: |
         pytest --maxfail=1 --disable-warnings -v
+
+# Cache enabled
