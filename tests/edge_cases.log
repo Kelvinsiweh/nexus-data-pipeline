@@ -17,3 +17,4 @@
 [2026-05-27 09:10:56 +0100] fix: add boundary checks for malformed input payloads - verified by CI pipeline
 [2026-05-27 22:45:14 +0100] fix: add boundary checks for malformed input payloads - verified by CI pipeline
 [2026-06-14 14:43:23 +0100] fix: add boundary checks for malformed input payloads - verified by CI pipeline
+[2026-07-07 22:43:22 +0100] fix: add boundary checks for malformed input payloads - verified by CI pipeline
