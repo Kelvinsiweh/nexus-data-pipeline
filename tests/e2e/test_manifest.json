@@ -19,3 +19,4 @@
 [2026-07-01 09:26:45 +0100] fix: add boundary checks for malformed input payloads (ref: 90e04ba5, by: Ndemafia)
 [2026-08-21 13:44:32 +0100] fix: add boundary checks for malformed input payloads (ref: c2dc09a3, by: Kelvin Fomukong Siweh Nkweche)
 [2026-09-09 09:05:19 +0100] fix: add boundary checks for malformed input payloads (ref: 228bcfa8, by: Kelvin Fomukong Siweh Nkweche)
+[2026-09-13 17:26:13 +0100] fix: add boundary checks for malformed input payloads (ref: 80a750be, by: Kelvin Fomukong Siweh Nkweche)
